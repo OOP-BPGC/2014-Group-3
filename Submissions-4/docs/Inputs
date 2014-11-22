@@ -1,0 +1,50 @@
+----Add Event
+<Sample Input> 
+Event Name = Futsal
+Password = abc
+Description = This is a gold event
+Category = gold
+Venue = Sac
+Day1 : from = 7 to = 9
+Day2 : from = 8 to = 10
+Day3 : from = 8 to = 10
+
+<Sample Output>
+Event Added
+
+----Add Betting Details
+<Sample Input>
+Event Name = Futsal
+<Sample Output> 
+Bet Added
+
+----Add Result
+<Sample Input>
+Event Name = Futsal
+Password = abc
+1st Position = ah1
+2nd Position = ah2
+3rd Position = ah3
+<Sample Output>
+Result Added
+
+---Cancel Event
+<Sample Input>
+Event Name = Futsal
+<Sample Output>
+Event Cancelled
+
+----View Result
+<Sample Input>
+(No Input Just press the Get Result Button)
+<Sample Output>
+(Final Score tally)
+
+----Register
+<Sample Input>
+Enter ID number = 2013A1PS001G
+(Check the boxes against "Nights" and "TShirts")
+<Sample Output>
+(Registered)
+
+

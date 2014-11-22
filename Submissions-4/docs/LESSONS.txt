@@ -1,0 +1,17 @@
+a) Positives of your group:
+Most of the members were dedicated and eager to learn and contribute to the software in all aspects.
+
+
+
+b) Negatives of your group:
+None of us had specialsed skills in coding so we had to learn all the things from basics(eg- GUI).	
+
+
+
+c) What would you do differently next time?
+	
+	Databases handle data more effectively than files. Moreover, files can be accidentally delted from the workstation. So next time, we would use databases rather than files. We would also try to extend our standalone software to a web application in v2.0 of out software.
+Also we will try to get the passwords of students from SWD so registration's can be more secure and efficient. 
+
+
+
